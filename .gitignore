@@ -4,7 +4,7 @@
 .idea
 staticfiles/
 .envs/*
-.continue/*
+.continue/
 !.envs/.env.example
 ### Python ###
 # Byte-compiled / optimized / DLL files
